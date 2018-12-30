@@ -30,6 +30,8 @@
 
 ## wiring
 
+Caution: Always use a proper power supply to power the neopixels. Don't use the builtin Arduino power regulator.
+
 ![LED-Logo_sch](./Schematics/Neopixel_schem.png)
 
 ![LED-Logo_bb](./Schematics/Neopixel_bb.png)
