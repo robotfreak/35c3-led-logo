@@ -6,16 +6,18 @@
 
 ## part lists
 
-* 6 Neopixel sticks 
+* 6 x Neopixel sticks (with 8 neopixel each)
 * Arduino Nano
 * 3D printed logo
+* 180x150x3mm HDF 
+* 4 x M3 30mm standoff, 4 x M3 nuts, 4 x M3x10 screws
 
 # software used
 
-* Inkscape
+* Inkscape 
 * Inkscape to OpenSCAD converter https://www.thingiverse.com/thing:25036
 * OpenSCAD
-* Arduino 
+* Arduino IDE
 * Adafruit Neopixel Library
 
 ## logo design
