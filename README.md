@@ -30,6 +30,6 @@
 
 ## wiring
 
-![LED-Logo_sch](./Schematics/neopixel_schem.png)
+![LED-Logo_sch](./Schematics/Neopixel_schem.png)
 
-![LED-Logo_bb](./Schematics/neopixel_bb.png)
+![LED-Logo_bb](./Schematics/Neopixel_bb.png)
