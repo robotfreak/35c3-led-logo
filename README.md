@@ -1,7 +1,7 @@
 # 35c3-led-logo
 3D printed Neopixel 35c3 logo 
 
-[![LED-Logo](./Images/35c3logo.jpeg)]
+![LED-Logo](./Images/35c3logo.jpeg)
 
 
 ## part lists
