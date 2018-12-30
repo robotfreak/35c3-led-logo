@@ -1,4 +1,4 @@
-# 35c3-led-logo
+# 35c3 LED Logo
 3D printed Neopixel 35c3 logo 
 
 ![LED-Logo](./Images/35c3logo.jpeg)
@@ -12,7 +12,7 @@
 * 180x150x3mm HDF 
 * 4 x M3 30mm standoff, 4 x M3 nuts, 4 x M3x10 screws
 
-# software used
+## software used
 
 * Inkscape 
 * Inkscape to OpenSCAD converter https://www.thingiverse.com/thing:25036
