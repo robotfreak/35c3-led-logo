@@ -8,6 +8,7 @@
 
 * 6 x Neopixel sticks (with 8 neopixel each)
 * Arduino Nano
+* 7V power supply
 * 3D printed logo
 * 180x150x3mm HDF 
 * 4 x M3 30mm standoff, 4 x M3 nuts, 4 x M3x10 screws
@@ -26,3 +27,9 @@
 * Using svg2opencad plugin to create OPenSCAD file from SVG
 * Create the logo STL file with OpenSCAD
 * Scale it (if wanted) and print it with your 3D printer (0.2mm layer height, 30% infill)
+
+## wiring
+
+![LED-Logo_sch](./Schematics/Neopixel_schem.png)
+
+![LED-Logo_bb](./Schematics/Neopixel_bb.png)
